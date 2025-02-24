@@ -9,7 +9,8 @@ class fo
     }
     public static void main(String args[])    
     {
-        fo p=new fo();
+        fo p = new fo();
+
 
     }
 } 

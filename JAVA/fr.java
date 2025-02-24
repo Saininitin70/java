@@ -1,4 +1,5 @@
-import java.io.*;
+//import java.io.*;
+
  class fr{
     public static void main(String []h){
      int x;

@@ -1,4 +1,4 @@
-import java.io.*;
+//import java.io.*;
 class fct{
     public static void main (String []h){
         int x=20,a,f=1;
