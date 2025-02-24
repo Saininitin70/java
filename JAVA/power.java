@@ -14,4 +14,11 @@ class power
         String st1=br.readLine();
         int y=Integer.parseInt(st1);
 
-        int x=
+        int p=1;
+        while (y>0) {
+            p=p*x;
+            y--;
+        } 
+        System.out.println("power ="+p);
+    }
+}

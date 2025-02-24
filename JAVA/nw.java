@@ -12,7 +12,7 @@ class nw
 
         System.out.println("enter number");
         String st1=br.readLine();
-        int y=Integer.parseInt(st);
+        int y=Integer.parseInt(st1);
         
         int p=1;
         while (y>0) {
